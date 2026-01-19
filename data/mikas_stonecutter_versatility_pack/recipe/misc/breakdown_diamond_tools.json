@@ -1,0 +1,9 @@
+{
+    "type":"blasting",
+    "ingredient": "#mikas_stonecutter_versatility_pack:diamond_gear",
+    "cookingtime": 100,
+    "experience": 2.0,
+    "result": {
+        "id":"minecraft:diamond"
+    }
+}

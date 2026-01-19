@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Allows players to quickly craft blocks from different families apart from stone variants losslessly by using the stonecutter.",
+        "pack_format":88
+    }
+}
