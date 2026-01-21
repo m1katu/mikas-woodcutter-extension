@@ -5,11 +5,11 @@ Wood items can be obtained both using logs as well as planks.
 ## Wood Variants
 - Oak *unfinished*
 - Spruce *unfinished*
-- Birch *unfinished*
-- Jungle *unfinished*
-- Acacia *unfinished*
-- Dark Oak *unfinished*
-- Mangrove *not yet implemented*
+- Birch *finished*
+- Jungle *finished*
+- Acacia *finished*
+- Dark Oak *finished*
+- Mangrove *finished*
 - Cherry *not yet implemented*
 - Pale Oak *unfinished*
 - Crimson *not yet implemented*
