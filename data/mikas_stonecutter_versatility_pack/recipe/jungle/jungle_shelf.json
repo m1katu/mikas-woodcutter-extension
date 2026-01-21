@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "minecraft:stripped_jungle_log",
+    "result": {
+        "id": "minecraft:jungle_shelf",
+        "count": 1
+    }
+}

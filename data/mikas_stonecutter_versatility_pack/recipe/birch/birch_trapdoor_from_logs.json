@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "minecraft:birch_log",
+    "result": {
+        "id": "minecraft:birch_trapdoor",
+        "count": 4
+    }
+}
