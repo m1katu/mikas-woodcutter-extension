@@ -3,15 +3,15 @@ A datapack that extends Minecraft's stonecutter to accept wood blocks, facilitat
 Wood items can be obtained both using logs as well as planks.
 
 ## Wood Variants
-- Oak *unfinished*
-- Spruce *unfinished*
+- Oak *finished*
+- Spruce *finished*
 - Birch *finished*
 - Jungle *finished*
 - Acacia *finished*
 - Dark Oak *finished*
 - Mangrove *finished*
 - Cherry *not yet implemented*
-- Pale Oak *unfinished*
+- Pale Oak *finished*
 - Crimson *not yet implemented*
 - Warped *not yet implemented*
 
