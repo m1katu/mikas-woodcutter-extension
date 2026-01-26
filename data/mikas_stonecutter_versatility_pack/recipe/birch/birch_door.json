@@ -1,6 +1,6 @@
 {
     "type": "stonecutting",
-    "ingredient": "#minecraft:birh_planks",
+    "ingredient": "minecraft:birch_planks",
     "result": {
         "id": "minecraft:birch_door",
         "count": 1

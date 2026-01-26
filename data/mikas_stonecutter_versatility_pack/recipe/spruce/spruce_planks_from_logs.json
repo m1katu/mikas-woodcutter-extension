@@ -2,7 +2,7 @@
   "type": "stonecutting",
   "ingredient": "#minecraft:spruce_logs",
   "result": {
-    "count": 1,
+    "count": 4,
     "id": "minecraft:spruce_planks"
   }
 }

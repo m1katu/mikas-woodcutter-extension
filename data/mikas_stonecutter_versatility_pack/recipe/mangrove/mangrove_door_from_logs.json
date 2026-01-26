@@ -1,8 +1,8 @@
 {
     "type": "stonecutting",
-    "ingredient": "#minecraft:jungle_logs",
+    "ingredient": "#minecraft:mangrove_logs",
     "result": {
-        "id": "minecraft:jungle_door",
+        "id": "minecraft:mangrove_door",
         "count": 4
     }
 }

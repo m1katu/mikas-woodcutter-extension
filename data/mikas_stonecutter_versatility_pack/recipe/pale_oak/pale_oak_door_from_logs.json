@@ -1,8 +1,8 @@
 {
   "type": "stonecutting",
-  "ingredient": "minecraft:pale_oak_planks",
+  "ingredient": "#minecraft:pale_oak_logs",
   "result": {
-    "count": 1,
+    "count": 4,
     "id": "minecraft:pale_oak_door"
   }
 }
