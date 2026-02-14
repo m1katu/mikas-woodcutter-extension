@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient": "#minecraft:crimson_logs",
+    "result": {
+        "id": "minecraft:crimson_slab",
+        "count": 8
+    }
+}

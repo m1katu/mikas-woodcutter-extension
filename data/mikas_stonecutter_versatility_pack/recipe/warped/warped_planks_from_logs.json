@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": "#minecraft:warped_logs",
+  "result": {
+    "count": 4,
+    "id": "minecraft:warped_planks"
+  }
+}

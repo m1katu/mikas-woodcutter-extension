@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": "minecraft:stripped_warped_log",
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_shelf"
+  }
+}
