@@ -10,10 +10,10 @@ Wood items can be obtained both using logs as well as planks.
 - Acacia *finished*
 - Dark Oak *finished*
 - Mangrove *finished*
-- Cherry *not yet implemented*
+- Cherry *finished*
 - Pale Oak *finished*
-- Crimson *not yet implemented*
-- Warped *not yet implemented*
+- Crimson *finished*
+- Warped *finished*
 
 ## Version Support
 Currently supports Minecraft version 1.21.9 – 1.21.10.
