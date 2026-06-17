@@ -14,9 +14,10 @@ Wood items can be obtained both using logs as well as planks.
 - Pale Oak *finished*
 - Crimson *finished*
 - Warped *finished*
-
+- Bamboo *unfinished*
+- 
 ## Version Support
-Currently supports Minecraft version 1.21.9 – 1.21.10.
+Currently supports Minecraft Java Edition 26.1
 
 ## Developer Notes
 This is my very first datapack and a learning project. 
